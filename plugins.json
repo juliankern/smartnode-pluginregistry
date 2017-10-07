@@ -1,0 +1,20 @@
+[
+    {
+        "name": "smartnode-thermostat",
+        "type": "npm",
+        "author": "Julian Kern <mail@juliankern.com> (https://juliankern.com)"
+    },
+    {
+        "name": "example-plugin",
+        "type": "git",
+        "url": "https://github.com/example/repo.git",
+        "author": "John Doe"
+    },
+    {
+        "name": "another-example",
+        "type": "url",
+        "filetype": "targz",
+        "url": "https://example.org/software/smartnode-plugin.tar.gz",
+        "author": "example.org"
+    }
+]
